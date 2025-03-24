@@ -1,0 +1,10 @@
+BE-ThuyTinhNgoc/.env
+Admin-ThuyTinhNgoc/.env
+Client-ThuyTinhNgoc/.env
+
+# vendor
+BE-ThuyTinhNgoc/vendor
+
+#node module
+Admin-ThuyTinhNgoc/node_modules
+Client-ThuyTinhNgoc/node_modules
